@@ -1,3 +1,4 @@
+import "@/assets/scss/style.scss";
 import Link from "next/link";
 
 export const metadata = {
